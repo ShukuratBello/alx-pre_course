@@ -1,2 +1,2 @@
-This is a Readme file fo 0x01-git
+This is a Readme file for 0x01-git
 
